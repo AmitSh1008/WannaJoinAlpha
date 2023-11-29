@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69271563443",
+    "project_id": "wannajoinalpha",
+    "storage_bucket": "wannajoinalpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69271563443:android:ed95907ab90072fb1cd4c6",
+        "android_client_info": {
+          "package_name": "com.example.wannajoinalpha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF57dUdmUy4tL6SX-sLKQKj6Wqi7rEv2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
